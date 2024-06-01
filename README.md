@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👯 I’m looking to collaborate on **Sure! Here’s a sentence for expressing your interest in collaborating with people who know aboutI am looking to collaborate with individuals who have expertise in full-stack and software development to create innovative and impactful projects together.**
+- 👯 I’m looking to collaborate on with people who know aboutI am looking to collaborate with individuals who have expertise in full-stack and software development to create innovative and impactful projects together.
 
-- 🤝 I’m looking for help with **I’m looking for help from individuals experienced in full-stack and software development to collaborate on exciting new projects.**
+- 🤝 I’m looking for help with  individuals experienced in full-stack and software development to collaborate on exciting new projects.**
 
 - 👨‍💻 All of my projects are available at [rajas24.neocities.org](rajas24.neocities.org)
 
